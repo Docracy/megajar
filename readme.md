@@ -1,6 +1,6 @@
 ## The Java MegaJar
 
-The Java MegaJar is a single jar file that contains everything you need to not be sad when writing Java. Put another way, we use Maven so you don't have to.
+The Java MegaJar is a single jar file that contains all the best jars you end up using anyway, everything you need to not be sad when writing Java. Put another way, we use Maven so you don't have to.
 
 ## Downloads
 
