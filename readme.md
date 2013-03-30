@@ -1,6 +1,6 @@
 ## The Java MegaJar
 
-The Java MegaJar is a single jar file that contains all the best jars you end up using anyway, everything you need to not be sad when writing Java. Put another way, we use Maven so you don't have to.
+The Java MegaJar is a single jar file that contains all the best jars you end up using anyway. It's everything you need to not be sad when writing Java, in one easy download. Put another way, we use Maven so you don't have to.
 
 ## Downloads
 
@@ -33,3 +33,7 @@ Who cares.
 ### MegaJar doesn't contain my favorite library X - can you add it?
 
 There are many MegaJars, but this one is mine. We just added in the stuff we use most of the time, feel free to fork and pull request. Note: If you're about to add some psychotic XML library take a look at JSoup first, it makes dealing with XML almost bearable.
+
+### Who made the MegaJar?
+
+What might be the only startup using Java as their main language - [Docracy](http://www.docracy.com)!
